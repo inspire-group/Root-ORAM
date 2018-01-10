@@ -7,4 +7,3 @@ This repository contains the simulation code used in [Differentially Private Obl
 
 ## Other references
 * [Path ORAM](https://eprint.iacr.org/2013/280.pdf)
-
